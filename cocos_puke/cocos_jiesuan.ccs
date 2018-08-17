@@ -1,0 +1,38 @@
+<Solution>
+  <PropertyGroup Name="cocos_jiesuan" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="res">
+          <Folder Name="../csb">
+            <Folder Name="../res/csb/grabredlords_game">
+              <Project Name="wangzha.csd" Type="Node" />
+            </Folder>
+          </Folder>
+          <Folder Name="img2">
+            <Folder Name="desk">
+              <Image Name="1.jpg" />
+              <Image Name="2.jpg" />
+              <Image Name="scene_mask.png" />
+            </Folder>
+            <Folder Name="font">
+              <Fnt Name="mj_lose.fnt" />
+              <Fnt Name="mj_win.fnt" />
+            </Folder>
+            <Folder Name="grabredlords_game" />
+            <Folder Name="puchengBomb">
+              <Folder Name="btn">
+                <Image Name="anniu1.png" />
+                <Image Name="green.png" />
+                <Image Name="lan.png" />
+                <Image Name="liebiao.png" />
+                <Image Name="red.png" />
+                <Image Name="tuichu.png" />
+              </Folder>
+            </Folder>
+          </Folder>
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
