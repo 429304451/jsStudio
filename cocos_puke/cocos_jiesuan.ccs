@@ -4,9 +4,12 @@
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
         <Folder Name="res">
-          <Folder Name="../csb">
-            <Folder Name="../res/csb/grabredlords_game">
+          <Folder Name="csb">
+            <Folder Name="grabredlords_game">
               <Project Name="wangzha.csd" Type="Node" />
+            </Folder>
+            <Folder Name="mMatch">
+              <Project Name="match1_center.csd" Type="Node" />
             </Folder>
           </Folder>
           <Folder Name="img2">
@@ -18,6 +21,7 @@
             <Folder Name="font">
               <Fnt Name="mj_lose.fnt" />
               <Fnt Name="mj_win.fnt" />
+              <TTF Name="MSYH.TTF" />
             </Folder>
             <Folder Name="grabredlords_game" />
             <Folder Name="puchengBomb">
