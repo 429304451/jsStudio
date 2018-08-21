@@ -11,6 +11,9 @@
             <Folder Name="mMatch">
               <Project Name="match1_center.csd" Type="Node" />
             </Folder>
+            <Folder Name="SingleGame">
+              <Project Name="tongbiniuniu.csd" Type="Node" />
+            </Folder>
           </Folder>
           <Folder Name="img2">
             <Folder Name="btn">
@@ -26,6 +29,127 @@
               <Fnt Name="mj_lose.fnt" />
               <Fnt Name="mj_win.fnt" />
               <TTF Name="MSYH.TTF" />
+            </Folder>
+            <Folder Name="niuniu">
+              <Folder Name="cards">
+                <Image Name="card_0_1.png" />
+                <Image Name="card_0_10.png" />
+                <Image Name="card_0_11.png" />
+                <Image Name="card_0_12.png" />
+                <Image Name="card_0_13.png" />
+                <Image Name="card_0_2.png" />
+                <Image Name="card_0_3.png" />
+                <Image Name="card_0_4.png" />
+                <Image Name="card_0_5.png" />
+                <Image Name="card_0_6.png" />
+                <Image Name="card_0_7.png" />
+                <Image Name="card_0_8.png" />
+                <Image Name="card_0_9.png" />
+                <Image Name="card_1_1.png" />
+                <Image Name="card_1_10.png" />
+                <Image Name="card_1_11.png" />
+                <Image Name="card_1_12.png" />
+                <Image Name="card_1_13.png" />
+                <Image Name="card_1_2.png" />
+                <Image Name="card_1_3.png" />
+                <Image Name="card_1_4.png" />
+                <Image Name="card_1_5.png" />
+                <Image Name="card_1_6.png" />
+                <Image Name="card_1_7.png" />
+                <Image Name="card_1_8.png" />
+                <Image Name="card_1_9.png" />
+                <Image Name="card_2_1.png" />
+                <Image Name="card_2_10.png" />
+                <Image Name="card_2_11.png" />
+                <Image Name="card_2_12.png" />
+                <Image Name="card_2_13.png" />
+                <Image Name="card_2_2.png" />
+                <Image Name="card_2_3.png" />
+                <Image Name="card_2_4.png" />
+                <Image Name="card_2_5.png" />
+                <Image Name="card_2_6.png" />
+                <Image Name="card_2_7.png" />
+                <Image Name="card_2_8.png" />
+                <Image Name="card_2_9.png" />
+                <Image Name="card_3_1.png" />
+                <Image Name="card_3_10.png" />
+                <Image Name="card_3_11.png" />
+                <Image Name="card_3_12.png" />
+                <Image Name="card_3_13.png" />
+                <Image Name="card_3_2.png" />
+                <Image Name="card_3_3.png" />
+                <Image Name="card_3_4.png" />
+                <Image Name="card_3_5.png" />
+                <Image Name="card_3_6.png" />
+                <Image Name="card_3_7.png" />
+                <Image Name="card_3_8.png" />
+                <Image Name="card_3_9.png" />
+                <Image Name="card_back.png" />
+                <Image Name="card_mask.png" />
+              </Folder>
+              <Folder Name="loading">
+                <Image Name="fk.png" />
+                <Image Name="ht.png" />
+                <Image Name="hx.png" />
+                <Image Name="loading.png" />
+                <Image Name="logo.png" />
+                <Image Name="logoBg.png" />
+                <Image Name="mh.png" />
+                <Image Name="point.png" />
+              </Folder>
+              <Folder Name="niu">
+                <Image Name="niu_0.png" />
+                <Image Name="niu_1.png" />
+                <Image Name="niu_10.png" />
+                <Image Name="niu_2.png" />
+                <Image Name="niu_3.png" />
+                <Image Name="niu_4.png" />
+                <Image Name="niu_5.png" />
+                <Image Name="niu_6.png" />
+                <Image Name="niu_7.png" />
+                <Image Name="niu_8.png" />
+                <Image Name="niu_9.png" />
+              </Folder>
+              <Folder Name="room">
+                <Image Name="3.png" />
+                <Image Name="42.png" />
+                <Image Name="43.png" />
+                <Image Name="44.png" />
+                <Image Name="45.png" />
+                <Image Name="left.png" />
+                <Image Name="right.png" />
+              </Folder>
+              <Image Name="auto_d.png" />
+              <Image Name="auto_h.png" />
+              <Image Name="auto_n.png" />
+              <Image Name="bg.jpg" />
+              <Image Name="cancel_d.png" />
+              <Image Name="cancel_h.png" />
+              <Image Name="cancel_n.png" />
+              <Image Name="cell_frame.png" />
+              <Image Name="clock.png" />
+              <Image Name="close.png" />
+              <Image Name="close-dj.png" />
+              <Image Name="face_frame_h.png" />
+              <Image Name="face_frame_v.png" />
+              <Image Name="info.png" />
+              <Image Name="infoBtn_h.png" />
+              <Image Name="infoBtn_n.png" />
+              <Image Name="mrule.png" />
+              <Image Name="niu_frame.png" />
+              <Image Name="op_d.png" />
+              <Image Name="op_h.png" />
+              <Image Name="op_n.png" />
+              <Image Name="read_font.png" />
+              <Image Name="ready_h.png" />
+              <Image Name="ready_n.png" />
+              <Image Name="rule.png" />
+              <Image Name="rule_h.png" />
+              <Image Name="rule_n.png" />
+              <Image Name="ruleBG.png" />
+              <Image Name="ruleBox.png" />
+              <Image Name="ruleBtn_h.png" />
+              <Image Name="ruleBtn_n.png" />
             </Folder>
             <Folder Name="playerInfo">
               <Image Name="_0005_boli.png" />
