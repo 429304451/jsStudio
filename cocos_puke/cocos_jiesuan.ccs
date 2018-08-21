@@ -13,6 +13,10 @@
             </Folder>
           </Folder>
           <Folder Name="img2">
+            <Folder Name="btn">
+              <Image Name="gouxuan.png" />
+              <Image Name="xuanzhongkuang.png" />
+            </Folder>
             <Folder Name="desk">
               <Image Name="1.jpg" />
               <Image Name="2.jpg" />
@@ -23,7 +27,17 @@
               <Fnt Name="mj_win.fnt" />
               <TTF Name="MSYH.TTF" />
             </Folder>
-            <Folder Name="grabredlords_game" />
+            <Folder Name="playerInfo">
+              <Image Name="_0005_boli.png" />
+              <Image Name="_0007_yuenjiao20.png" />
+              <Image Name="_0008_wenben.png" />
+              <Image Name="_0022_diban.png" />
+              <Image Name="_0024_bolidi.png" />
+              <Image Name="hui.png" />
+              <Image Name="jinbi.png" />
+              <Image Name="kunag.png" />
+              <Image Name="lan.png" />
+            </Folder>
             <Folder Name="puchengBomb">
               <Folder Name="btn">
                 <Image Name="anniu1.png" />
